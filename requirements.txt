@@ -1,0 +1,12 @@
+faster-whisper
+sounddevice
+scipy
+pydub
+ffmpeg-python
+sentence-transformers
+transformers
+torch
+numpy
+typer
+rich
+

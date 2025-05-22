@@ -1,0 +1,23 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+
+# Audio files
+*.wav
+*.mp3
+
+# Whisper models (if downloaded manually)
+*.bin
+
+# Outputs - ignore all runs except sample files
+outputs/*
+!outputs/sample_run/transcript.json
+!outputs/sample_run/redacted.txt
+!outputs/sample_run/summary.txt
+
+# System files
+.DS_Store
+
